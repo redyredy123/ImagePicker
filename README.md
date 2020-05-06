@@ -1,7 +1,7 @@
 cordova-imagePicker
 ===================
 
-Cordova Plugin For Multiple Image Selection - implemented for iOS and Android 4.0 and above.
+Cordova Plugin For Multiple Image Selection - implemented for iOS and Android 4.0 and above. Modified for Capacitor use and Android X
 
 ## Installing the plugin
 
